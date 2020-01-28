@@ -1,4 +1,4 @@
-XXXthis is the first line
+Better first line, yes
 Make a new line
 Third line
 Fourth line
